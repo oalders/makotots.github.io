@@ -40,9 +40,9 @@ navbar-links:
     - Ian Hague: grants-placeholder
   Donate:
     - Donors: donors
-    - Make a donation: donate-placholder
-    - Tax returns: donate-placholder
-    - Donation prospectus: donate-placholder
+    - Make a donation: donate-placeholder
+    - Tax returns: donate-placeholder
+    - Donation prospectus: donate-placeholder
   Download:
     - Perl: http://www.perl.org/get.html
     - Raku: https://raku.org/downloads/
