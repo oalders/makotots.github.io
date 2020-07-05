@@ -237,7 +237,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 
-remote_theme: benbalter/retlab
+remote_theme: daattali/beautiful-jekyll@3.0.0
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
