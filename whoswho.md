@@ -15,7 +15,6 @@ title: Who's Who
 - Allison Randal
 - Dave Rolsky
 - Ricardo Signes
-- Dan Wright
 
 ### Grants
 
