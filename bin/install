@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -eux -o pipefail
+
+gem install bundler
+bundle install
